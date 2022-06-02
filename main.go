@@ -1,5 +1,5 @@
 package main
-
+//em caso de dúvidas, leia o README https://github.com/Natanael-devops/Web-Scraper#readme
 import (
 	"encoding/json"
 	"fmt"
