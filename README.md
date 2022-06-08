@@ -10,7 +10,7 @@ Depois de visitar o site, a aplicação calcula a média de valor por projeto do
   <ul>
     <li>func Main: responsável por fazer o scraping do site e chamar as outras funções;</li>
     <li>func EscreveJSON: responsável em escrever um novo arquivo com todos os dados;</li>
-    <li>func SelecionaNumeros: responsável em encontrar os números contidos em strings para transformar em float64 e assim melhorar os dados.</li>
+    <li>func SelecionaNumeros: responsável em encontrar os números contidos em strings para transformar em float64 e assim fazer cálculos mais precisos.</li>
     <li>func CalculaMedia: responsável por retornar a média numérica de qualquer slice dado como parâmetro.</li>
     <li>func TratandoDados: função que ajuda a encontrar as expressões regulares (regex).</li>
 </p>
